@@ -1,4 +1,5 @@
 \- My Question to Deepseek: Do you want to say if I don’t have that libraries or whoever I send the binary him, binary will never open?
+
 \- Deepseek's answer:
 Yes! If you compile a program **dynamically** (the default in GCC), the binary depends on shared libraries (`.so` files) at runtime. If those libraries are missing on your system (or on the system of whoever runs the binary), the program **will fail to launch** with an error like:
 
