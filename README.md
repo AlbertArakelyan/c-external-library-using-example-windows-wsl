@@ -36,3 +36,8 @@ The libraries anyway need to be included even during build time e.g. `-lhpdf`. T
 > (depending on what’s available and how your system is configured)  
 >  
 > 📌 Without this, you'd get "undefined symbol" errors for every function you used from `libharu`.
+
+---
+
+### Recorded set up process
+https://youtu.be/EdwMgVJifJU
